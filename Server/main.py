@@ -5,5 +5,6 @@ Date:
    20.01.2020
 """
 
-pass
-#TODO
+if __name__ == '__main__':
+    print("Hello everyone!")
+    #TODO
