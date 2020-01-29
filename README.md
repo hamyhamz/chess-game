@@ -31,7 +31,7 @@ with their AI or human opponents.
 
 # Code specifics
 
-Requirements : Python 3.6.1 or higher
+Requirements : Python 3.6.1 or higher  
                pygame 1.9.6
                
  
