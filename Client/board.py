@@ -7,5 +7,11 @@ Date:
 
 
 class Board:
-    pass
+
+    def __init__(self):
+        self.dimensions = (8, 8)
+
+    def get_background(self):
+        ...
+
     #TODO
